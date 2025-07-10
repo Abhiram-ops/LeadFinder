@@ -31,12 +31,11 @@ No Python required — it just works ✅
 ```bash
 git clone https://github.com/Abhiram-ops/LeadFinder.git
 cd LeadFinder
+
 2. Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 3. Run the script:
 
 python LeadFinder_Enhanced.py
